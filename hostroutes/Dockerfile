@@ -1,2 +1,2 @@
 FROM alpine
-ADD hostroutes /hostroutes
+ADD hostroutes/hostroutes
